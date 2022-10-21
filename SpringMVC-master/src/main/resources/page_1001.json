@@ -1,0 +1,330 @@
+{
+  "deviceId": null,
+  "action": "N",
+  "data": {
+    "width": "1366",
+    "frame": [
+      {
+        "top": "0",
+        "layer": "0",
+        "style": null,
+        "column": [
+          {
+            "columnStyle": null,
+            "name": "BACKGROUND",
+            "field": [
+              {
+                "width": "1366",
+                "height": "768",
+                "top": "0",
+                "layer": "0",
+                "left": "0",
+                "name": "B601",
+                "type": "G",
+                "content": [
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": "TRANSP",
+                      "align": "left",
+                      "fontFamily": null,
+                      "fontSize": null,
+                      "fontWeight": null,
+                      "fontFace": null,
+                      "fontChar": null,
+                      "fontPitch": null,
+                      "fontItalic": null,
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": "#FFFFFF",
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": null,
+                      "align": null,
+                      "fontFamily": "Modern",
+                      "fontSize": "12",
+                      "fontWeight": "400",
+                      "fontFace": null,
+                      "fontChar": null,
+                      "fontPitch": null,
+                      "fontItalic": null,
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": null,
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": null,
+                      "align": null,
+                      "fontFamily": null,
+                      "fontSize": null,
+                      "fontWeight": null,
+                      "fontFace": "Arial",
+                      "fontChar": "Ansi",
+                      "fontPitch": "Fixed",
+                      "fontItalic": "N",
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": null,
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\tairport/background.jpg\n\t\t\t\t\t"
+                ]
+              }
+            ]
+          },
+          {
+            "columnStyle": null,
+            "name": "ANIMATION",
+            "field": [
+              {
+                "width": "100",
+                "height": "10",
+                "top": "525",
+                "layer": "5",
+                "left": "340",
+                "name": "A101",
+                "type": "G",
+                "content": [
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": "TRANSP",
+                      "align": "left",
+                      "fontFamily": null,
+                      "fontSize": null,
+                      "fontWeight": null,
+                      "fontFace": null,
+                      "fontChar": null,
+                      "fontPitch": null,
+                      "fontItalic": null,
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": "#FFFFFF",
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": null,
+                      "align": null,
+                      "fontFamily": "Swiss",
+                      "fontSize": "12",
+                      "fontWeight": "400",
+                      "fontFace": null,
+                      "fontChar": null,
+                      "fontPitch": null,
+                      "fontItalic": null,
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": null,
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": null,
+                      "align": null,
+                      "fontFamily": null,
+                      "fontSize": null,
+                      "fontWeight": null,
+                      "fontFace": "Arial",
+                      "fontChar": "Ansi",
+                      "fontPitch": "Variable",
+                      "fontItalic": "N",
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": null,
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\tairport/loading.gif\n\t\t\t\t\t"
+                ]
+              }
+            ]
+          },
+          {
+            "columnStyle": null,
+            "name": "INFO",
+            "field": [
+              {
+                "width": "800",
+                "height": "72",
+                "top": "500",
+                "layer": "5",
+                "left": "450",
+                "name": "B101",
+                "type": "A",
+                "content": [
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": "TRANSP",
+                      "align": "left",
+                      "fontFamily": null,
+                      "fontSize": null,
+                      "fontWeight": null,
+                      "fontFace": null,
+                      "fontChar": null,
+                      "fontPitch": null,
+                      "fontItalic": null,
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": "#FFFFFF",
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": null,
+                      "align": null,
+                      "fontFamily": "Swiss",
+                      "fontSize": "48",
+                      "fontWeight": "700",
+                      "fontFace": null,
+                      "fontChar": null,
+                      "fontPitch": null,
+                      "fontItalic": null,
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": null,
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\t",
+                  {
+                    "declaredType": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType$Attributes",
+                    "nil": false,
+                    "globalScope": false,
+                    "typeSubstituted": false,
+                    "scope": "com.tsystems.ac.fids.web.server.interfaces.pojoxml.FieldType",
+                    "name": "{http://www.t-systems.com/ac/fids}attributes",
+                    "value": {
+                      "bg": null,
+                      "align": null,
+                      "fontFamily": null,
+                      "fontSize": null,
+                      "fontWeight": null,
+                      "fontFace": "Arial",
+                      "fontChar": "Ansi",
+                      "fontPitch": "Variable",
+                      "fontItalic": "N",
+                      "transparent": null,
+                      "invers": null,
+                      "underline": null,
+                      "blink": null,
+                      "blinkColor": null,
+                      "shadowColor": null,
+                      "fg": null,
+                      "shadow": null
+                    }
+                  },
+                  "\n\t\t\t\t\t\tSeite 1001 wird geladen .@Seite 1001 wird geladen ..@Seite 1001 wird geladen ...\n\t\t\t\t\t"
+                ]
+              }
+            ]
+          }
+        ],
+        "left": "0",
+        "name": "HAUPTFRAME"
+      }
+    ],
+    "revision": null,
+    "unit": "P",
+    "backgroundColour": "#000000",
+    "length": "768",
+    "name": "PAGE_1001"
+  },
+  "type": "P"
+}
